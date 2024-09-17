@@ -1,0 +1,10 @@
+
+
+@media(max-width:1000px){
+    *{width:50%;}
+  }
+  
+  
+  @media(max-width:670px){
+    *{width:100%;}
+  }
