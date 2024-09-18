@@ -1,0 +1,20 @@
+@media(max-width:700px){
+  *{
+    font-size :9px;
+  }
+  .Title h2{
+    color:black;
+    border-bottom:  solid whitesmoke;
+    width: 580px;
+    padding-right:300px ;
+    
+  }
+
+
+}
+  
+  
+ 
+
+
+
