@@ -1,0 +1,96 @@
+/*main*/
+*{
+    background-color:#00CCFF;
+}
+
+
+.main{
+    width: 100%;
+    height: 100%;
+    background-color: #00CCFF;
+}
+
+.me img{
+    width: 200px;
+    height: 300px;  
+    padding-top:10px;
+    object-fit: contain;
+    position: relative;
+}
+
+.Dob p{
+    color:black;
+    text-align: left;
+}
+
+.blood-type p{
+    color:black;
+    text-align: left;
+}
+
+.favorite p{
+    color:black;
+    text-align: left;
+}
+
+.en{
+    font-size: 10px;
+}
+
+.organize{
+    font-size: 10px;
+}
+
+.TEL{
+    font-size: 9px;
+}
+
+.mail{
+    font-size: 10px;
+}
+
+.footer{
+    position: relative; 
+    bottom: 0; 
+    margin: 0;
+}
+
+/*main2*/
+.Title h1{
+    color:whitesmoke;
+    width: 400px;
+    padding-left: 230px;
+    }
+    
+.Title h2{
+    color:black;
+    border-bottom:  solid whitesmoke;
+    text-align: center;
+    width: 800px;
+}
+
+.full{
+width: 100%;
+}
+
+.recently{
+    width: 100%;
+    font-size: 15px;
+}
+
+.Wh{
+    width: 100%;
+    font-size: 25px;
+}
+
+.recently{
+    border-bottom:  solid whitesmoke;
+    width: 100%;
+}
+
+/* profile */
+.profile h2{
+text-align: center;
+
+}
+

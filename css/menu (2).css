@@ -1,0 +1,35 @@
+body{
+    width:99%;
+    height:100%;    
+}
+
+
+a:link{
+    text-decoration: none;
+    font-size: 15px;
+ }
+ a:visited{
+    color:gray;
+    text-decoration: none;
+    font-size: 15px;
+ }
+
+ul {
+    background: #fffcf4;
+    border-radius:8px;
+    margin-top:-20px;
+    width:74%;
+    
+    height: 100%;
+    line-height: 50px;
+    background:#ffffff;
+    
+}
+
+h2{
+    width:93%;
+    text-align: center;
+    color: white;
+    background-color:black;
+    margin-top:-8px;
+}
